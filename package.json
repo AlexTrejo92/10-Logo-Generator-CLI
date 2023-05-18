@@ -1,0 +1,24 @@
+{
+  "name": "10-logo-generator-cli",
+  "version": "1.0.0",
+  "description": "A repo created to develop the 10th challenge from the web dev BC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTrejo92/10-Logo-Generator-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTrejo92/10-Logo-Generator-CLI/issues"
+  },
+  "homepage": "https://github.com/AlexTrejo92/10-Logo-Generator-CLI#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
