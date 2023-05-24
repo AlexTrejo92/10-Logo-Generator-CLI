@@ -24,7 +24,7 @@ npm i
 ```
 
 ## Link
-Follow this URL to access a video walkthrough of the functionality of the app: 
+Follow this URL to access a video walkthrough of the functionality of the app: https://drive.google.com/file/d/1r43RmSPm5BqoBhxoD66H9ymNPqrmuw-Q/view?usp=share_link
 
 ## Credits
 This CLI application was done with templates and following acceptance criteria provided by EdX bootcamps & Tec de Monterrey. The functionality was coded by me with support from a tutor.
